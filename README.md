@@ -1,6 +1,6 @@
 <h3 align="center">hi_張育誠 ☀</h3>
 
-<table border="0">
+<table align="center" border="0">
   <tbody>
     <tr>
       <td border="0">
@@ -48,9 +48,9 @@
 <img align="left" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
-
-![1](https://komarev.com/ghpvc/?username=joohnny3)
-
+<div>
+<img align="right" src="https://komarev.com/ghpvc/?username=joohnny3"/>
+</div>
 <!--
 **joohnny3/joohnny3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
