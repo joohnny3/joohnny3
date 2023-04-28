@@ -1,6 +1,6 @@
 ### Hi I'm 張育誠 👋
 
-
+![profile views](https://komarev.com/ghpvc/?username=joohnny3)
 
 
 
