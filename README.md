@@ -40,6 +40,12 @@
 <br>
 </div>
 
+#### Frame Work:
+<div>
+<img align="left" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>
+<br>
+</div>
+
 #### Ohter:
 <div>
   
