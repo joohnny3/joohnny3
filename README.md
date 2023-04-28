@@ -60,7 +60,7 @@
 #### Ohter:
 <div>
   
-<img align="left" src="https://img.shields.io/badge/-Adobe Illustrator-#FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>
 <br>
