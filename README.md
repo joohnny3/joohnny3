@@ -17,14 +17,6 @@
   </tbody>
 </table>
 
-
-
-
-
-![4](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)
-
-![3](https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true)
-
 ![2](https://img.shields.io/github/watchers/joohnny/1000?style=social)
 
 ![1](https://komarev.com/ghpvc/?username=joohnny3)
