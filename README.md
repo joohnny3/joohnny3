@@ -2,9 +2,9 @@
 
 
 
-![profile views](https://img.shields.io/github/watchers/joohnny/1000?style=social)
+![views](https://img.shields.io/github/watchers/joohnny/1000?style=social)
 
-![profile views](https://komarev.com/ghpvc/?username=joohnny3)
+![](https://komarev.com/ghpvc/?username=joohnny3)
 
 <div align="left" height="160">
 	<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true">
