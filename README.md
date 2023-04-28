@@ -1,16 +1,16 @@
 ### Hi_張育誠 👋
 
-<div align="right" height="160">
-	<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true">
-	
-</div>
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![views](https://img.shields.io/github/watchers/joohnny/1000?style=social)
 
 ![](https://komarev.com/ghpvc/?username=joohnny3)
 
-
+<div align="right" height="160">
+	<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true">
+	
+</div>
 
 
 
