@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=joohnny3)
 
 <div align="left" height="160">
-	<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=joohnny&show_icons=true">
 </div>
 
 
