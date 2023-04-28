@@ -3,13 +3,13 @@
 ![profile views](https://komarev.com/ghpvc/?username=joohnny3)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
 
 
 <!--
 **joohnny3/joohnny3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
 
 
 Here are some ideas to get you started:
