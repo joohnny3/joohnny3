@@ -17,6 +17,17 @@
   </tbody>
 </table>
 
+<div align="center">
+  <h3>Find me in </h3>
+<a href="https://line.me/ti/p/BxEe8nw6dX">
+  <img align="center" alt="LINE"  src="https://img.shields.io/badge/-Line-00C300?logo=line&logoColor=white&style=for-the-badge" />
+</a>
+<br>
+</div>
+
+
+
+
 #### Languages:
 <div>
 <img align="left" src="https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=white&logoWidith=200&style=for-the-badge"/>
