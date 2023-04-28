@@ -1,4 +1,24 @@
-### hi_張育誠 😎
+### hi_張育誠 ☀
+
+<table border="0">
+  <tbody>
+    <tr>
+      <td border="0">
+        <a>
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true" />
+        </a>
+      </td>
+      <td border="0">
+        <a>
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 ![4](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)
