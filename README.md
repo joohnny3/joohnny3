@@ -5,7 +5,7 @@
     <tr>
       <td border="0">
         <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joohnny3&theme=nord&show_icons=true" />
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joohnny3&theme=nord&show_icons=true">
         </a>
       </td>
       <td border="0">
