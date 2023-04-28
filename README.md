@@ -32,10 +32,6 @@
 <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
 </div>
 
-<div>
-<br><br>
-</div>
-
 
 #### Database:
 <div>
