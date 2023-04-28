@@ -1,7 +1,7 @@
 ### Hi_張育誠 👋
 
 
-![3](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)](https://github.com/anuraghazra/github-readme-stats)
+![3](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)
 
 
 
