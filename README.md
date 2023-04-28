@@ -22,38 +22,24 @@
 <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Java-007396?logo=CoffeeScript&logoColor=white&logoWidith=200&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
 #### Web Development:
 <div>
-<img align="left" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
 </div>
 
 <div>
-<br><br></div>
+<br><br>
+</div>
 
 
 #### Database:
 <div>
 <img align="left" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-<br>
-</div>
-
-#### Deploy:
-<div>
-<img align="left" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge"/>  
 <br>
 </div>
 
