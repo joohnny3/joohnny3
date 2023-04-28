@@ -20,7 +20,7 @@
 #### Languages:
 <div>
 <img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Php-777BB4?logo=phpColor=white&logoWidith=200&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=white&logoWidith=200&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
