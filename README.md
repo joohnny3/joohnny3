@@ -1,10 +1,10 @@
 ### hi_張育誠 👋
 
 
-![3](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)
+![4](https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3)
 
 
-
+![3](https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true)
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=joohnny3&show_icons=true">
 	
