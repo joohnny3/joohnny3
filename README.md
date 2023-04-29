@@ -1,4 +1,4 @@
-<h3 align="center" color="blue">hi_joohnny ✔︎</h3>
+<h3 align="center">hi_joohnny ✔︎</h3>
 
 <table align="center" border="0">
   <tbody>
