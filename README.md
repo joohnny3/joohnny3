@@ -1,16 +1,21 @@
 <h3 align="center">hi_joohnny ✔︎</h3>
 
-<div align="center">
-        <a>
-           <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3&theme=graywhite&show_icons=true" height="195px">
-        </a>
-    
-    
-        <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true" >
-        </a>
-    
-</div>
+<table align="center" border="0">
+    <tbody>
+      <tr>
+        <td border="0">
+          <a>
+             <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3&theme=graywhite&show_icons=true" height="195px">
+          </a>
+        </td>
+        <td border="0">
+          <a>
+            <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true" >
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 <div align="center">
   <h3>Find me in </h3>
