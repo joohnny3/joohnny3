@@ -10,7 +10,7 @@
       </td>
       <td border="0">
         <a>
-          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true" radius="30px">
+          <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true" >
         </a>
       </td>
     </tr>
