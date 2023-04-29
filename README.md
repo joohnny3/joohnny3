@@ -2,10 +2,10 @@
 
 <div align="center" border="0">
           <a>
-             <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3&theme=graywhite&show_icons=true" height="195px">
+             <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnny3&theme=graywhite&show_icons=true" height="195px"width="400px">
           </a>
           <a>
-            <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true">
+            <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=joohnny3&show_icons=true"width="400px">
           </a>
   </div>
 
