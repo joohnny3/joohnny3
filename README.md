@@ -18,7 +18,7 @@
   </table>
 
 <div align="center">
-  <h3>Find me in </h3>
+  <h3>Contact me</h3>
 <a href="https://line.me/ti/p/BxEe8nw6dX">
   <img align="center" alt="LINE"  src="https://img.shields.io/badge/-Line-00C300?logo=line&logoColor=white&style=for-the-badge" />
 </a>
