@@ -5,7 +5,7 @@
       <tr>
         <td border="0">
           <a>            
-             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joohnny3&theme=graywhite&show_icons=true" height="195px">
+             <img src="https://github.com/joohnny3/wordCloud/blob/main/wordcloud.png" height="195px">
           </a>
         </td>
         <td border="0">
