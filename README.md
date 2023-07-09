@@ -1,5 +1,6 @@
-<h3 align="center">hi_joohnny
-    <img src="https://simpleicons.org/icons/nike.svg" height="14px">
+<h3 align="center">hi_joohnny 
+<!--     &nbsp; -->
+    <img src="https://simpleicons.org/icons/nike.svg"  align="center" height="20px">
 </h3>
 
 <table align="center" border="0">
