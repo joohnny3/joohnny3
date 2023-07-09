@@ -6,13 +6,14 @@
 <table align="center" border="0">
     <tbody>
       <tr>
-        <td border="0">
+<!--         <td border="0">
           <a>            
              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joohnny3&theme=onedark&show_icons=true" align="center" height="195px">
           </a>
-        </td>
+        </td> -->
         <td border="0">
           <a>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html&theme=shadow_green&show_icons=true&layout=donut-vertical" align="center" height="195px">             
                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html&theme=shadow_green&show_icons=true" align="center" height="195px">             
           </a>
         </td>
