@@ -43,7 +43,7 @@
 
 #### Web Development:
 <div>
-<img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-CSS3-3776AB?logo=css3&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
 <br>
@@ -52,29 +52,29 @@
 
 #### Database:
 <div>
-<img align="left" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-MySQL-3776AB?logo=mysql&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
 #### Frame Work:
 <div>
-<img align="left" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Laravel-E34F26?logo=Laravel&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
 #### Ohter:
 <div>
-<img align="left" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Docker-3776AB?logo=docker&logoColor=white&style=for-the-badge"/>
 <!-- <img align="left" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge"/> -->
 <!-- <img align="left" src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge"/> -->
-<img align="left" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Git-E34F26?logo=Git&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Selenium-47A248?logo=selenium&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 <br>
 <div>
-<img align="right" src="https://komarev.com/ghpvc/?username=joohnny3&style=plastic&label=&nbsp;&nbsp;&nbsp;觀看次數&nbsp;&nbsp;&nbsp;"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=joohnny3&color=blue&style=plastic&label=&nbsp;&nbsp;&nbsp;觀看次數&nbsp;&nbsp;&nbsp;"/>
 </div>
 <!--
 **joohnny3/joohnny3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
