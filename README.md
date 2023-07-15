@@ -9,12 +9,12 @@
         <td border="0">
           <a>            
 <!--              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joohnny3&theme=onedark&show_icons=true" align="center" height="195px"> -->
-             <img src="https://github-readme-stats.vercel.app/api/?username=joohnny3&theme=shadow_green&rank_icon=github&show_icons=true&custom_title=張育誠&nbsp;changyucheng&nbsp;github&show=reviews,discussions_started&border_radius=1&title_color=ffffff&icon_color=ffffff" align="center"height="195px">
+             <img src="https://github-readme-stats.vercel.app/api/?username=joohnny3&theme=shadow_green&rank_icon=github&show_icons=true&custom_title=張育誠&nbsp;changyucheng&nbsp;github&show=reviews,discussions_started&border_radius=1&title_color=adbac7&icon_color=adbac7" align="center"height="195px">
           </a>
         </td>
         <td border="0">
           <a>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html&theme=shadow_green&show_icons=true&layout=donut&border_radius=1&title_color=ffffff&text_color=ffffff" align="center" height="195px">             
+               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html&theme=shadow_green&show_icons=true&layout=donut&border_radius=1&title_color=adbac7&text_color=adbac7" align="center" height="195px">             
 <!--                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html&theme=shadow_green&show_icons=true" align="center" height="195px">              -->
           </a>
         </td>
