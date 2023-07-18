@@ -57,7 +57,7 @@
 <br>
 </div>
 
-#### Frame Work:
+#### Framework:
 <div>
 <img align="left" src="https://img.shields.io/badge/-Laravel-E34F26?logo=Laravel&logoColor=white&style=for-the-badge"/>
 <br>
