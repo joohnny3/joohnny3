@@ -55,7 +55,7 @@
 #### Database:
 <div>
 <img align="left" src="https://img.shields.io/badge/-MySQL-3776AB?logo=mysql&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+<!-- <img align="left" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/> -->
 <br>
 </div>
 
