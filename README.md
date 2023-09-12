@@ -43,9 +43,9 @@
 
 #### Web Development:
 <div>
-<!-- <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/> -->
+<img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
 <!-- <img align="left" src="https://img.shields.io/badge/-CSS3-3776AB?logo=css3&logoColor=white&style=for-the-badge"/> -->
-<img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+<!-- <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/> -->
 <img align="left" src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge"/>
 <!-- <img align="left" src="https://img.shields.io/badge/-Livewire-4E56A6?logo=livewire&logoColor=white&style=for-the-badge"/> -->
 <br>
