@@ -67,10 +67,9 @@
 <br>
 </div>
 
-#### Other:
+#### Version Control:
 <div>
 <img align="left" src="https://img.shields.io/badge/-Git-E34F26?logo=Git&logoColor=white&style=for-the-badge"/>
-<!-- <img align="left" src="https://img.shields.io/badge/-Selenium-47A248?logo=selenium&logoColor=white&style=for-the-badge"/> -->
 <br>
 <br>
 </div>
