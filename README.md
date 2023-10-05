@@ -1,5 +1,5 @@
 <h3 align="center">
-<a href="https://www.linkedin.com/in/yu-cheng-chang-99866b280/">
+<a href="https://www.linkedin.com/in/yu-cheng-chang-99866b280/" target="_blank">
 hi_joohnny 
 </a>
 <img src="https://simpleicons.org/icons/nike.svg"  align="center" height="20px">
