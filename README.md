@@ -2,7 +2,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://www.linkedin.com/in/yu-cheng-chang-99866b280/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/yu-cheng-chang-99866b280/">
 hi_joohnny 
 </a>
 <img src="https://simpleicons.org/icons/nike.svg"  align="center" height="20px">
