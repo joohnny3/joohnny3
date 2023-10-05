@@ -25,7 +25,7 @@ hi_joohnny
 
 
 <div align="center">
-  <h4>Contact me</h4>
+  <h3>Contact me</h3>
 <a href="https://line.me/ti/p/BxEe8nw6dX">
   <img align="center" alt="LINE"  src="https://img.shields.io/badge/-Line-47A248?logo=line&logoColor=white&style=for-the-badge" />
 </a>
