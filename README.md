@@ -82,5 +82,5 @@ hi_joohnny
 
 
 <div>
-<img align="right" src="https://komarev.com/ghpvc/?username=joohnny3&color=blue&style=plastic&label=&nbsp;&nbsp;&nbsp;觀看次數&nbsp;&nbsp;&nbsp;"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=joohnny3&color=blue&style=plastic;"/>
 </div>
