@@ -2,8 +2,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/changyucheng-99866b280/">
-hi_joohnny 
+<a target="_blank" href="#">
+joohnny 
 </a>
 <img src="https://simpleicons.org/icons/nike.svg"  align="center" height="20px">
 </h3>
