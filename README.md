@@ -19,7 +19,7 @@ joohnny
         </td>
         <td border="0">
           <a>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html,css&theme=shadow_green&show_icons=true&layout=donut&border_radius=1&title_color=adbac7&text_color=adbac7" align="center" height="195px">             
+               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joohnny3&hide=html,css&theme=shadow_green&show_icons=true&layout=donut&border_radius=1&title_color=adbac7&text_color=adbac7" align="center" height="195px">          
           </a>
         </td>
       </tr>
