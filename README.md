@@ -75,7 +75,7 @@ joohnny
 
 #### Cloud:
 <div>
-<img align="left" src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-GCP-3776AB?logo=googlecloud&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
