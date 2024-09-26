@@ -73,6 +73,12 @@ joohnny
 <br>
 </div>
 
+#### Cloud:
+<div>
+<img align="left" src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
+<br>
+</div>
+
 #### Version Control:
 <div>
 <img align="left" src="https://img.shields.io/badge/-Git-E34F26?logo=Git&logoColor=white&style=for-the-badge"/>
