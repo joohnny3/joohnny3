@@ -5,13 +5,13 @@
 
 #### Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Laravel-1D1D1F?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-1D1D1F?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-1D1D1F?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-1D1D1F?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-1D1D1F?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-1D1D1F?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GCP-1D1D1F?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
 </p>
 
 #### Medium:
