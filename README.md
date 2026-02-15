@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:4A4A4A&height=220&section=header&text=Joohnny&fontSize=62&fontColor=000000&animation=fadeIn&fontAlignY=48" alt="Joohnny capsule banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,100:D2D2D7&height=220&section=header&text=Joohnny&fontSize=62&fontColor=1D1D1F&animation=fadeIn&fontAlignY=48" alt="Joohnny capsule banner" />
 </p>
 
 
@@ -17,7 +17,7 @@
 #### Medium:
 <p align="center">
   <a href="https://medium.com/@johnny31258" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%40joohnny-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @johnny31258" />
+    <img src="https://img.shields.io/badge/Medium-%40joohnny-1D1D1F?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @johnny31258" />
   </a>
 </p>
 
