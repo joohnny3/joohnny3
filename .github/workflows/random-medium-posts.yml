@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,12 +28,32 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          did_commit="false"
+
           if [[ -n "$(git status --porcelain README.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git add README.md
             git commit -m "chore(readme): refresh random medium posts"
-            git push
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+            did_commit="true"
+            commit_sha="$(git rev-parse --short HEAD)"
           else
             echo "No README changes to commit"
+          fi
+
+          if [[ "${did_commit}" == "true" ]]; then
+            {
+              echo "## README update result"
+              echo "- Status: committed and pushed"
+              echo "- Branch: ${GITHUB_REF_NAME}"
+              echo "- Commit: ${commit_sha}"
+            } >> "${GITHUB_STEP_SUMMARY}"
+          else
+            {
+              echo "## README update result"
+              echo "- Status: no README changes, skipped commit"
+              echo "- Branch: ${GITHUB_REF_NAME}"
+            } >> "${GITHUB_STEP_SUMMARY}"
           fi
