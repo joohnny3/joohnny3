@@ -33,9 +33,9 @@ jobs:
           if [[ -n "$(git status --porcelain README.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
             git add README.md
             git commit -m "chore(readme): refresh random medium posts"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
             did_commit="true"
             commit_sha="$(git rev-parse --short HEAD)"
