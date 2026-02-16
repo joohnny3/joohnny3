@@ -29,8 +29,8 @@
   <a target="_blank" href="https://medium.com/@johnny31258/github-desktop-integrating-wsl2-repositories-f270b0302cae?source=rss-9ea6d45e7908------2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/4" alt="Random Medium Article 1" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/laravel-12-%E5%80%8B%E8%AE%93-laravel-%E6%9B%B4%E5%AE%89%E5%85%A8%E7%9A%84%E6%87%89%E7%94%A8-477a19e9940e?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/1" alt="Random Medium Article 2" />
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-l5-swagger-%E6%94%BB%E7%95%A5-fccaa8866e95?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/7" alt="Random Medium Article 2" />
   </a>
 </p>
 <!-- MEDIUM_POSTS_END -->
