@@ -26,11 +26,11 @@
   <a target="_blank" href="https://medium.com/@johnny31258/laravel-laravel-12-%E5%A6%82%E4%BD%95%E9%9B%86%E4%B8%AD%E7%AE%A1%E7%90%86%E9%8C%AF%E8%AA%A4%E6%99%82%E7%9A%84%E7%95%B0%E5%B8%B8%E8%99%95%E7%90%86-25311e3c3ff7?source=rss-9ea6d45e7908------2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/0" alt="Latest Medium Article" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/github-desktop-integrating-wsl2-repositories-f270b0302cae?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/4" alt="Random Medium Article 1" />
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-clone-laravel-%E5%B0%88%E6%A1%88%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E6%94%BB%E7%95%A5-34592174403d?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/2" alt="Random Medium Article 1" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/laravel-l5-swagger-%E6%94%BB%E7%95%A5-fccaa8866e95?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/7" alt="Random Medium Article 2" />
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-packages-%E5%8C%85%E8%A3%9D%E6%88%90%E5%A5%97%E4%BB%B6-194b36064b16?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/5" alt="Random Medium Article 2" />
   </a>
 </p>
 <!-- MEDIUM_POSTS_END -->
