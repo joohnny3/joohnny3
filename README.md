@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F5F5F7&height=220&section=header&text=Joohnny&fontSize=62&fontColor=1D1D1F&animation=fadeIn&fontAlignY=48" alt="Joohnny capsule banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B8E8FF&height=220&section=header&text=Joohnny&fontSize=62&fontColor=000000&animation=fadeIn&fontAlignY=48" alt="Joohnny capsule banner" />
 </p>
 
 
