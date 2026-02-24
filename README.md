@@ -4,15 +4,44 @@
 
 
 #### Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="GCP"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33.33%" align="center">
+        <strong>Backend</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=laravel,php,python&theme=dark" alt="Backend skills"/>
+      </td>
+      <td valign="top" width="33.33%" align="center">
+        <strong>Frontend</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=javascript,tailwind,vue&theme=dark" alt="Frontend skills"/>
+      </td>
+      <td valign="top" width="33.33%" align="center">
+        <strong>Database</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=dark" alt="Database skills"/>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="33.33%" align="center">
+        <strong>DevOps / Infrastructure</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions&theme=dark" alt="DevOps and infrastructure skills"/>
+      </td>
+      <td valign="top" width="33.33%" align="center">
+        <strong>Version Control</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version control skills"/>
+      </td>
+      <td valign="top" width="33.33%" align="center">
+        <strong>Other</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=elasticsearch,linux&theme=dark" alt="Other skills"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Medium:
 <p align="center">
