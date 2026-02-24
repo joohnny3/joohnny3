@@ -10,34 +10,44 @@
       <td valign="top" width="33.33%" align="center">
         <strong>Backend</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=laravel,php,python&theme=dark" alt="Backend skills"/>
+        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48"/>
       </td>
       <td valign="top" width="33.33%" align="center">
         <strong>Frontend</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=javascript,tailwind,vue&theme=dark" alt="Frontend skills"/>
+        <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" width="48" height="48"/>
       </td>
       <td valign="top" width="33.33%" align="center">
         <strong>Database</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=dark" alt="Database skills"/>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="48" height="48"/>
       </td>
     </tr>
     <tr>
       <td valign="top" width="33.33%" align="center">
         <strong>DevOps</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions&theme=dark" alt="DevOps and infrastructure skills"/>
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="48" height="48"/>
       </td>
       <td valign="top" width="33.33%" align="center">
         <strong>Version</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version control skills"/>
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/>
       </td>
       <td valign="top" width="33.33%" align="center">
         <strong>Other</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=elasticsearch,linux&theme=dark" alt="Other skills"/>
+        <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" alt="Elasticsearch" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48"/>
       </td>
     </tr>
   </table>
