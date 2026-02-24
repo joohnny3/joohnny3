@@ -53,7 +53,8 @@
   </table>
 </div>
 
-#### Medium:
+<br/>
+<!-- #### Medium: -->
 <p align="center">
   <a href="https://medium.com/@johnny31258" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%40joohnny-1D1D1F?style=for-the-badge&logo=medium&logoColor=white" alt="Medium @johnny31258" />
