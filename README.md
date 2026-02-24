@@ -25,12 +25,12 @@
     </tr>
     <tr>
       <td valign="top" width="33.33%" align="center">
-        <strong>DevOps / Infrastructure</strong>
+        <strong>DevOps</strong>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions&theme=dark" alt="DevOps and infrastructure skills"/>
       </td>
       <td valign="top" width="33.33%" align="center">
-        <strong>Version Control</strong>
+        <strong>Version</strong>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version control skills"/>
       </td>
