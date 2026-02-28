@@ -20,7 +20,7 @@
       <td valign="top" width="33.33%" align="center">
         <strong>Database</strong>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=dark" alt="Database skills"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Database skills"/>
       </td>
     </tr>
     <tr>
