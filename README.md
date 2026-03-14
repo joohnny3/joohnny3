@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0F10,100:3A3A3C&height=200&section=header&text=Johnny&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48" alt="Joohnny capsule banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Johnny+This+is+my+GitHub." alt="Typed text header" />
 </p>
 
 
