@@ -3,7 +3,7 @@
 </p>
 
 
-#### Tech Stack:
+<!-- #### Tech Stack: -->
 <div align="center">
   <table>
     <tr>
