@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Johnny+This+is+my+GitHub." alt="Typed text header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=f5ce42&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Johnny+This+is+my+GitHub." alt="Typed text header" />
 </p>
 
 
