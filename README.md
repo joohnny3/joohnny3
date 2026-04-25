@@ -56,14 +56,14 @@
   <a target="_blank" href="https://medium.com/@johnny31258/laravel-env-%E5%88%B0-config-cache-%E6%A9%9F%E5%88%B6%E8%A7%A3%E6%9E%90-f7ec1a277a6d?source=rss-9ea6d45e7908------2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/0" alt="Latest Medium Article" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/laravel-12-%E5%80%8B%E8%AE%93-laravel-%E6%9B%B4%E5%AE%89%E5%85%A8%E7%9A%84%E6%87%89%E7%94%A8-477a19e9940e?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/3" alt="Random Medium Article 1" />
-  </a>
   <a target="_blank" href="https://medium.com/@johnny31258/laravel-laravel-12-%E5%A6%82%E4%BD%95%E9%9B%86%E4%B8%AD%E7%AE%A1%E7%90%86%E9%8C%AF%E8%AA%A4%E6%99%82%E7%9A%84%E7%95%B0%E5%B8%B8%E8%99%95%E7%90%86-25311e3c3ff7?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/2" alt="Random Medium Article 2" />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/2" alt="Random Medium Article 1" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/laravel-how-to-use-php8-attributes-7e5a2027cd44?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/5" alt="Random Medium Article 3" />
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-packages-%E5%8C%85%E8%A3%9D%E6%88%90%E5%A5%97%E4%BB%B6-194b36064b16?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/6" alt="Random Medium Article 2" />
+  </a>
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-di-ioc-container-%E6%B7%B1%E5%85%A5%E6%B7%BA%E5%87%BA-1ada6a3dc349?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/1" alt="Random Medium Article 3" />
   </a>
 </p>
 <!-- MEDIUM_POSTS_END -->
