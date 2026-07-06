@@ -11,7 +11,7 @@ from pathlib import Path
 
 README_PATH = Path("README.md")
 MEDIUM_USERNAME = "johnny31258"
-POST_COUNT = 4
+POST_COUNT = 3
 START_MARKER = "<!-- MEDIUM_POSTS_START -->"
 END_MARKER = "<!-- MEDIUM_POSTS_END -->"
 
