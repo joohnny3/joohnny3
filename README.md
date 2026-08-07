@@ -56,8 +56,8 @@
   <a target="_blank" href="https://medium.com/@johnny31258/openclaw-%E5%BE%9E%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A4%8E%E5%88%B0%E5%A4%9A-agent-%E8%87%AA%E5%8B%95%E5%8C%96%E5%B7%A5%E4%BD%9C%E6%B5%81-97c3ea555efa?source=rss-9ea6d45e7908------2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/0" alt="Latest Medium Article" />
   </a>
-  <a target="_blank" href="https://medium.com/@johnny31258/laravel-clone-laravel-%E5%B0%88%E6%A1%88%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E6%94%BB%E7%95%A5-34592174403d?source=rss-9ea6d45e7908------2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/5" alt="Random Medium Article 1" />
+  <a target="_blank" href="https://medium.com/@johnny31258/laravel-12-%E5%80%8B%E8%AE%93-laravel-%E6%9B%B4%E5%AE%89%E5%85%A8%E7%9A%84%E6%87%89%E7%94%A8-477a19e9940e?source=rss-9ea6d45e7908------2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/4" alt="Random Medium Article 1" />
   </a>
   <a target="_blank" href="https://medium.com/@johnny31258/laravel-how-to-use-php8-attributes-7e5a2027cd44?source=rss-9ea6d45e7908------2">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnny31258/6" alt="Random Medium Article 2" />
